@@ -6,6 +6,6 @@ img: 2.jpg
 alt: image-alt
 project-date: April 2014
 category: Data Mining
-description: In this project, I have taken a dataset with all the earthquake occured details and then implemented the data mining algorithms like decision tree, k-means clustering, Naive base classification and Random Forest algorithm. And later from the outputs I calculate OOB error perdiction and prediction accuracy.
+description: In this project, I used R language. First, I have taken a dataset with all the earthquake occured details and then implemented the data mining algorithms like decision tree, k-means clustering, Naive base classification and Random Forest algorithm. And later from the outputs I calculate OOB error perdiction and prediction accuracy.  
 
 ---
