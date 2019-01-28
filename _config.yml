@@ -58,8 +58,8 @@ address:
   - line: Beside Krishi Bhavan, VDO's Colony
   - line: Khammam, Telangana- 507002
 
-# Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  Credits content
+credits: 'And this is my portfolio</a>.'
 
 # Build settings
 markdown: kramdown
