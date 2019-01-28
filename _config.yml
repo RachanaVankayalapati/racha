@@ -1,17 +1,17 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Rachana Vankayalapati 
+email: vankayalapatirachana@gmail.com 
+url: https://racha.github.io
+description:"Portfolio of Rachana Vankayalapati on GitHub.io"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Software Intern - Freelance Content Writer"
+meta_author:  FirstName LastName
 
 # Google webmaster tools
-google_verify:
+#google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -39,24 +39,27 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  -title: linkedin
+    url: https://www.linkedin.com/in/rachana-vankayalapati-43141a12a/\
   - title: github
-    url: http://github.com/jekyll
-
+    url: https://github.com/RachanaVankayalapati
+  - title: twitter
+    url: https://twitter.com/rachanamunni
+  - title: instagram
+    url: https://instagram.com/the18th_alphabet
+  # title: google+
+   #url:https://plus.google.com/u/0/106425509530788764768
+  #- title: bitbucket
+    #url: http://bitbucket.org/jekyll
+  
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: H.no:11-15-296/15, flat no:301, Sri Sai Surya Towers
+  - line: Beside Krishi Bhavan, VDO's Colony
+  - line: Khammam, Telangana- 507002
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
